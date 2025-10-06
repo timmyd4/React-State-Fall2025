@@ -55,8 +55,14 @@
 // const root = createRoot(document.querySelector("#root"));
 // root.render(<Ch6/>);
 
-//Challenge Seven
+// //Challenge Seven
+// import {createRoot} from "react-dom/client";
+// import Ch7 from "./Challenges/Ch7/Ch7App.jsx";
+// const root = createRoot(document.querySelector("#root"));
+// root.render(<Ch7/>);
+
+//Challenge Eight
 import {createRoot} from "react-dom/client";
-import Ch7 from "./Challenges/Ch7/Ch7App.jsx";
+import Ch8 from "./Challenges/Ch8/Ch8App.jsx";
 const root = createRoot(document.querySelector("#root"));
-root.render(<Ch7/>);
+root.render(<Ch8/>);
